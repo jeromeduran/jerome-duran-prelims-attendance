@@ -8,10 +8,6 @@ A simple web application for calculating preliminary grades based on attendance,
 - **Input Validation:** Ensures all inputs are within the specified ranges.
 - **Dynamic Calculation:** Calculates the final grade instantly based on user inputs.
 
-## Demo
-
-![Demo Screenshot](link-to-your-screenshot.png)
-
 ## Getting Started
 
 ### Prerequisites
